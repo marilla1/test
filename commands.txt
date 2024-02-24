@@ -1,0 +1,23 @@
+Para Clonar Repo desde URL en la Terminal
+
+git clone (url)
+
+Para Revisar el Estado del Repositorio Local
+
+git status
+
+Para Agregar Archivos al Repo Local
+
+git add .
+
+Para Subirlos al Repo Local
+
+git commit -m "mensaje"
+
+Para Subir el Repo Local al Repo en Linea
+
+git push
+
+Para Obtener la version del Repo en Linea
+
+git pull
