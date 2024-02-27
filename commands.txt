@@ -21,3 +21,8 @@ git push
 Para Obtener la version del Repo en Linea
 
 git pull
+
+cambiar nombre de usuario de esa cuenta
+
+git config --global user.name "your username"
+git config --global yourname@gmail.com "your email"
