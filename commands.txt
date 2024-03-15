@@ -25,4 +25,4 @@ git pull
 cambiar nombre de usuario de esa cuenta
 
 git config --global user.name "your username"
-git config --global yourname@gmail.com "your email"
+git config --global user.email "your email"
